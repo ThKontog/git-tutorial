@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("version1");
+Console.WriteLine("Hello!");
+Console.WriteLine("version2");
