@@ -5,3 +5,5 @@ Console.WriteLine("version3");
 Hello helloClass = new Hello();
 
 helloClass.HelloMeth();
+
+System.Console.WriteLine("nothing else");
